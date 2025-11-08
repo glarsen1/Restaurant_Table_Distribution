@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Table Distribution System
+# Restaurant Table Distribution System
 
 This program simulates the automatic assignment of restaurant tables to client groups based on the number of people in each group.
 
